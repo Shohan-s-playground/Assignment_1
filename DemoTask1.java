@@ -1,7 +1,7 @@
 public class DemoTask1{
     public static void main(String[] args) {
         float bankBalance=123456.7890f;
-        System.out.printf("$%,.2f",bankBalance);
+        System.out.printf("$%,.2f \n",bankBalance);
     }
 
 }
