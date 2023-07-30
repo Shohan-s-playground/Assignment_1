@@ -1,4 +1,4 @@
-public class DemoTask3 {
+public class Demo3 {
     public static void main(String[] args) {
         int numSet1=123;
         int numSet2=456;
